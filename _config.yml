@@ -1,4 +1,4 @@
-baseurl: "dummy-pages" # the subpath of your site, e.g. /blog/
+baseurl: "/dummy-pages" # the subpath of your site, e.g. /blog/
 url: "tonyfast.com" # the base hostname & protocol for your site
 twitter_username: docfast
 github_username:  tonyfast
